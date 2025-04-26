@@ -1,6 +1,8 @@
 # python-practice
 Name: Salim Hatibu
+
 Admission Number: 190000
+
 School: Strathmore Univeristy
 
 PRACTICE 1 TO 6
