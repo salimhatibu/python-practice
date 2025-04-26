@@ -47,5 +47,6 @@ When prompted, enter the required input.
 The program will immediately display the result.
 
 Requirements:
+
 Basic Python 3
 No external libraries needed.
